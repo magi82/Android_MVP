@@ -1,4 +1,4 @@
-package io.github.magi82.androidmvp.core;
+package io.github.magi82.androidmvp.presentation;
 
 /**
  * Created by quse on 2017. 2. 19..

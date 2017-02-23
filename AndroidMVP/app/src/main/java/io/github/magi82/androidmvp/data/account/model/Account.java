@@ -1,10 +1,10 @@
-package io.github.magi82.androidmvp.model;
+package io.github.magi82.androidmvp.data.account.model;
 
 /**
  * Created by quse on 2017. 2. 19..
  */
 
-public class AccountInfo {
+public class Account {
     private String mName;
     private String mAge;
     private String mAddress;
@@ -22,7 +22,7 @@ public class AccountInfo {
     }
 
     public void setAge(String strAge) {
-        this.mAge = mAge;
+        this.mAge = strAge;
     }
 
     public String getAddress() {
@@ -30,6 +30,6 @@ public class AccountInfo {
     }
 
     public void setAddress(String strAddress) {
-        this.mAddress = mAddress;
+        this.mAddress = strAddress;
     }
 }

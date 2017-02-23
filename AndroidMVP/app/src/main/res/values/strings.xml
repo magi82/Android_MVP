@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidMVP</string>
+    <string name="String_00">USER 1</string>
+    <string name="String_01">USER 2</string>
+    <string name="String_02">USER 3</string>
+    <string name="String_03">Toast</string>
 </resources>
